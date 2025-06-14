@@ -1,0 +1,25 @@
+# Core Framework Requirements
+streamlit
+langchain
+langchain-core
+dspy
+python-dotenv
+
+# Vector Database & Search
+qdrant-client
+langchain-community
+tavily-python
+
+# Language Models & Embeddings
+openai
+langchain-openai
+
+# Math Processing
+sympy
+numpy
+
+# Utility Packages
+pydantic
+tenacity
+tqdm
+orjson
